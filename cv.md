@@ -1,5 +1,5 @@
 ## My CV project
-### Syrtceva Daria<br>
+### Syrtceva Daria
 Junior Frontend Developer<br>
 ![My photo](/assets/images/photo.jpg)<br><br>
 **Contact information**:
@@ -35,14 +35,12 @@ The solution to this task is presented below:
 var whatTimeIsIt = function(angle) {
   let hour = Math.floor(angle/30);
   let ansHour = hour;
-  if (hour===0){
+  if (hour === 0) {
      ansHour = 12;
   }
-  ansHour = ansHour.toString();
-  ansHour = ansHour.length < 2 ? '0' + ansHour : ansHour;
-  let minut = angle-hour*30;
-  let ansMin = Math.floor(minut/0.5);
-  ansMin = ansMin.toString();
-  ansMin = ansMin.length < 2 ? '0' + ansMin : ansMin;
-  return ansHour+":"+ansMin;
+  ansHour = ansHour.toString().padStart(2, '0');
+  let minut = angle - hour * 30;
+  let ansMin = Math.floor(minut / 0.5);
+  ansMin = ansMin.toString().padStart(2, '0');
+  return ansHour + ":" + ansMin;
 }
