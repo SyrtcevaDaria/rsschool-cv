@@ -14,7 +14,7 @@ My main goal is to understand what I really want to do. I recently discovered fr
 * Higher education
   * I am studying in the third year at the St. Petersburg State Electrotechnical University in the direction of software engineering, sometimes it is difficult, but in general I like it.
 * Аdditional education
-  * I passed the stage 0 in the [rolling scopes school](https://rs.school/)
+  * ![crt](/assets/images/crt.jpg)<br>I passed the stage 0 in the [rolling scopes school](https://rs.school/)
   * I also took a basic course in [python](https://edu.sirius.online/#/course/374) and [c++](https://edu.sirius.online/#/course/800)
 
 **Skills:**<br>
@@ -25,7 +25,7 @@ My main goal is to understand what I really want to do. I recently discovered fr
 **Some examples of my work:**<br>
 * [snake game](https://rolling-scopes-school.github.io/syrtcevadaria-JSFEPRESCHOOL2023Q2/random-game/)
 * [image galery](https://rolling-scopes-school.github.io/syrtcevadaria-JSFEPRESCHOOL2023Q2/image-galery/)
-* [audio player]( https://rolling-scopes-school.github.io/syrtcevadaria-JSFEPRESCHOOL2023Q2/audio-player/ )
+* [audio player](https://rolling-scopes-school.github.io/syrtcevadaria-JSFEPRESCHOOL2023Q2/audio-player/)
 * [library](https://rolling-scopes-school.github.io/syrtcevadaria-JSFEPRESCHOOL2023Q2/library/)
 
 **Code Examples:**<br>
@@ -46,6 +46,3 @@ var whatTimeIsIt = function(angle) {
   ansMin = ansMin.length < 2 ? '0' + ansMin : ansMin;
   return ansHour+":"+ansMin;
 }
-```
-**English Language:**<br>
-I think my English level is pre-intermediate, i started studying it at school, the first 2 courses at the university taught English too. I have never had any language practice.
