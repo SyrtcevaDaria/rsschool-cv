@@ -1,1 +1,1 @@
-https://SyrtcevaDaria.github.io/rsschool-cv/cv
+https://SyrtcevaDaria.github.io/rsschool-cv/
