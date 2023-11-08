@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SyrtcevaDaria.github.io/rsschool-cv/
